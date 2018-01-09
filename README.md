@@ -2,7 +2,7 @@
 Full_Duplex_Chat_Application_Using_FIFO
 
 #Project : FULL_DUPLEX_CHAT_USING_FIFO
-#Author : Sajan Kumar Jha
+                                          #Author : Sajan Kumar Jha
 
 Description : This project performs the full duplex operation using two FIFO.Here the two process communicate with each other by using one of the FIFO for read/write operation.
 so let us assume that there are FIFO1,FIFO2
